@@ -1,239 +1,237 @@
 <div align="center">
 
-# 📈 Hi, I'm Sandesh
+# 👋 Hi, I'm Sandesh Gowda R D
 
-### `Algorithmic Trading • Forex • Gold • MT5 • Python • MQL5`
+### `ECE Engineer • Python Developer • Embedded Systems • Algorithmic Trading`
 
-**Building trading systems. Studying the markets. Automating the process.**
+**Engineering ideas → Code → Automation → Continuous Learning**
 
-<img src="https://komarev.com/ghpvc/?username=sandesh513&style=flat-square&color=00C853" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sandesh513&style=flat-square&color=00C853" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Trading-Forex-00C853?style=for-the-badge&logo=tradingview&logoColor=white" />
-<img src="https://img.shields.io/badge/Market-XAUUSD-FFD700?style=for-the-badge&logo=gold&logoColor=black" />
-<img src="https://img.shields.io/badge/Platform-MT5-2196F3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Algorithmic%20Trading-7E57C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded-Systems-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forex-Trading-FFD700?style=for-the-badge&logo=tradingview&logoColor=black"/>
+<img src="https://img.shields.io/badge/MT5-Algorithmic%20Trading-2196F3?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a developer and engineering student interested in **Forex, algorithmic trading and financial technology**.
+I'm a **4th-year Electronics & Communication Engineering student** at
+**Alva's Institute of Engineering and Technology**.
 
-My current focus is building and experimenting with automated trading systems for **MetaTrader 5**, especially around **Gold (XAUUSD)**.
+My background is in **programming, embedded systems, circuit design and engineering projects**. I'm also exploring **Forex and algorithmic trading**, with a particular interest in developing automated trading systems and learning how technology can be applied to financial markets.
 
 ```text
-📊 Market        → Forex & Gold
-⚡ Trading        → Scalping / Intraday
-🤖 Automation    → Expert Advisors & Trading Bots
-💻 Development   → Python + MQL5
-📈 Platform      → MetaTrader 5
-🎯 Goal          → Build disciplined algorithmic systems
+🎓 Electronics & Communication Engineering
+💻 Python / C++
+🔧 Embedded Systems / Arduino
+📊 Data & Technical Analysis
+📈 Forex & Algorithmic Trading
+🤖 Automation & AI
+🌱 Continuous Learning
 ```
 
 ---
 
-## 💹 Current Trading Projects
+## 📈 Current Focus — Algorithmic Trading
 
-### 🤖 XAUUSD Algorithmic Trading Bot
+I'm currently exploring the development of **automated Forex trading systems** and learning how programming can be used for market analysis and execution.
 
-A developing automated trading system focused on **Gold (XAUUSD)** using MetaTrader 5.
-
-**Current development areas:**
-
-* 📊 EMA-based market analysis
-* 📈 Market structure
-* 💧 Liquidity sweeps
-* 🧱 Support & Resistance
-* ⚡ Break of Structure (BOS)
-* 🕯️ Fair Value Gap (FVG)
-* 🎯 Automated entries
-* 🛡️ Stop Loss & Take Profit
-* 📉 Spread filtering
-* ⏱️ Trade cooldown
-* 🧮 Risk management
-* 🔄 MT5 automation
-
-**Status:** 🟡 `UNDER DEVELOPMENT`
-
----
-
-### 🥇 Gold Sniper EA
-
-An experimental **MQL5 Expert Advisor** designed for XAUUSD.
+### Trading Development
 
 ```text
-Market        : XAUUSD
-Platform      : MetaTrader 5
-Timeframes    : M1 / M5 / M15
-Entry         : Technical Signals
-Risk          : Controlled
-Execution     : Automated
-Status        : 🟡 Testing
+                 MARKET DATA
+                      │
+                      ▼
+               MARKET ANALYSIS
+                      │
+            ┌─────────┴─────────┐
+            │                   │
+        TECHNICAL            PRICE
+        ANALYSIS            STRUCTURE
+            │                   │
+            └─────────┬─────────┘
+                      ▼
+                TRADE SIGNAL
+                      │
+                      ▼
+               RISK MANAGEMENT
+                      │
+                      ▼
+               MT5 EXECUTION
+                      │
+                      ▼
+              📊 TRADE JOURNAL
+                      │
+                      ▼
+                 IMPROVEMENT
 ```
 
-> ⚠️ Experimental project. Trading results are not guaranteed.
+### Areas I'm Exploring
+
+* 📊 Forex market analysis
+* 🥇 Gold / XAUUSD
+* 🤖 Trading automation
+* 🐍 Python + MT5
+* 📈 Technical indicators
+* 🧠 Algorithmic strategies
+* 🛡️ Risk management
+* 📉 Backtesting
+
+> Trading projects are experimental and educational. They are not financial advice or a guarantee of trading performance.
 
 ---
 
-### 🧠 Trading Strategy Research
+## 🛠️ Technical Skills
 
-Currently experimenting with:
+### Programming
 
-```text
-EMA 9 / 21
-      ↓
-Market Structure
-      ↓
-Liquidity Sweep
-      ↓
-BOS Confirmation
-      ↓
-FVG / Order Block
-      ↓
-Trade Execution
-      ↓
-Risk Management
-```
+<div align="left">
 
----
-
-## 🛠️ Trading Technology Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-0066CC?style=for-the-badge\&logo=metatrader\&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-00AEEF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
 </div>
 
----
+### Web Technologies
 
-## 📊 Trading Development Roadmap
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+</div>
+
+### Tools & Technologies
+
+<div align="left">
+
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square\&logo=mathworks\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+</div>
+
+### Core Engineering
 
 ```text
-                         ALGORITHMIC TRADING
-                                │
-                ┌───────────────┴───────────────┐
-                │                               │
-           MARKET DATA                    STRATEGY
-                │                               │
-        ┌───────┴───────┐              ┌────────┴────────┐
-        │               │              │                 │
-      XAUUSD          XAGUSD          EMA              BOS
-        │               │              │                 │
-        └───────────────┴──────────────┼─────────────────┘
-                                        │
-                              LIQUIDITY / FVG
-                                        │
-                                        ▼
-                                ENTRY CONFIRMATION
-                                        │
-                                        ▼
-                                RISK MANAGEMENT
-                                        │
-                                        ▼
-                                  MT5 EXECUTION
-                                        │
-                                        ▼
-                                📈 TRADE SYSTEM
+Arduino
+Embedded Systems
+Circuit Design
+Communication Technologies
+Programming
 ```
 
 ---
 
-## 🚀 Development Progress
+## 🚀 Featured Engineering Projects
 
-| Project                    | Technology   | Status        |
-| -------------------------- | ------------ | ------------- |
-| 🥇 XAUUSD Trading Bot      | Python + MT5 | 🟡 Developing |
-| 🤖 Gold Sniper EA          | MQL5         | 🟡 Testing    |
-| 📊 Trading Strategy Engine | Python       | 🟡 Research   |
-| 💹 MT5 Automation          | Python       | 🟡 Developing |
-| 📈 Market Analysis Tools   | Python       | 🟢 Active     |
-| 🧠 AI Trading Research     | Python       | 🔵 Exploring  |
+### 🚦 Real-Time Traffic Light Control System
 
-### Progress
+**Arduino • Embedded Systems • Automation**
 
-```text
-Trading Knowledge       █████████░░  75%
-Python                  ████████░░░  65%
-MQL5                    ███████░░░░  55%
-MT5 Automation          ████████░░░  65%
-Market Structure        ███████░░░░  55%
-Algorithmic Trading     ██████░░░░░  50%
-AI Trading              ████░░░░░░░  35%
-```
+Designed and implemented an automated traffic control system using Arduino.
 
-> Progress percentages represent my personal learning/development stage, not trading performance.
+**Key work:**
+
+* 🚦 Automated traffic signal control
+* ⚙️ Embedded programming
+* ⏱️ Improved traffic signal timing
+* 🔧 Hardware + software integration
 
 ---
 
-## 📂 Featured Projects
+### ☀️ Solar-Powered Portable Water Purification
 
-| Project                                                                   | Description                         | Tech         |
-| ------------------------------------------------------------------------- | ----------------------------------- | ------------ |
-| 🤖 [XAUUSD Trading Bot](https://github.com/sandesh513/xauusd-trading-bot) | Automated Gold trading system       | Python / MT5 |
-| 🥇 [Gold Sniper EA](https://github.com/sandesh513/gold-sniper-ea)         | Experimental MT5 Expert Advisor     | MQL5         |
-| 📊 [Forex Analysis Tools](https://github.com/sandesh513/forex-analysis)   | Market analysis & trading utilities | Python       |
-| 🧠 [AI Trading Research](https://github.com/sandesh513/ai-trading)        | Experiments with AI & trading       | Python       |
+**ESP32 • Sensors • Renewable Energy • Water Quality Monitoring**
 
-> Replace the repository links above with your actual GitHub repository names.
+A portable water purification concept powered by solar energy with real-time water-quality monitoring.
 
----
+**Key work:**
 
-## 📈 My Trading Development Philosophy
-
-```text
-     DATA
-      ↓
-   ANALYSIS
-      ↓
-   CONFIRMATION
-      ↓
-  RISK CONTROL
-      ↓
-  EXECUTION
-      ↓
-   JOURNAL
-      ↓
-   IMPROVEMENT
-```
-
-### 🎯 Principles
-
-* Risk management before profit
-* Strategy before execution
-* Backtest before deployment
-* Avoid over-optimization
-* Keep systems simple and measurable
-* Test on demo before considering live deployment
-* Continuously improve through data
+* ☀️ Solar-powered purification
+* 💧 Water quality monitoring
+* 🌡️ Temperature measurement
+* 📊 Sensor-based monitoring
+* 🔋 Sustainable energy approach
+* 🚰 Portable clean-water solution
 
 ---
 
-## 🔬 Currently Learning
+## 📊 Project Development Roadmap
 
 ```text
-☑ Python
-☑ MetaTrader 5
-☑ MQL5
-☑ Technical Analysis
-☑ Forex Market Structure
-☑ Algorithmic Trading
-
-🔄 Advanced Risk Management
-🔄 Backtesting
-🔄 Strategy Optimization
-🔄 Quantitative Analysis
-🔄 AI + Trading
+Engineering
+    │
+    ├── Embedded Systems
+    │       ├── Arduino
+    │       └── Sensors
+    │
+    ├── Programming
+    │       ├── Python
+    │       └── C++
+    │
+    ├── Renewable Energy
+    │       └── Solar Water Purification
+    │
+    └── Financial Technology
+            ├── Forex
+            ├── Gold / XAUUSD
+            ├── Python + MT5
+            └── Algorithmic Trading
 ```
+
+---
+
+## 📚 Certifications
+
+* 📘 **Digital Signal Processing: Basic Concepts and Algorithm**
+* 🤖 **Artificial Intelligence Certificate**
+
+---
+
+## 🏆 Activities & Achievements
+
+* ♻️ Attended **Hazardous Waste Management Workshop**
+* 🔧 Active in technical clubs and engineering activities
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+⚡ Embedded Systems
+🌐 Internet of Things (IoT)
+🔬 VLSI
+🤖 Artificial Intelligence
+☀️ Renewable Energy Systems
+📈 Algorithmic Trading
+💹 Forex & Financial Technology
+```
+
+---
+
+## 📈 Learning Progress
+
+```text
+Python                 ████████░░  80%
+C++                    ██████░░░░  60%
+Embedded Systems       ████████░░  80%
+Arduino                ████████░░  80%
+Web Technologies       █████░░░░░  50%
+AI                     █████░░░░░  50%
+Forex                  █████░░░░░  50%
+Algorithmic Trading    ████░░░░░░  40%
+```
+
+> Progress bars represent my current learning/development stage, not professional proficiency or trading performance.
 
 ---
 
@@ -249,17 +247,27 @@ AI Trading              ████░░░░░░░  35%
 
 ---
 
-## 🐍 Contribution Activity
+## 🧠 My Development Philosophy
 
-<div align="center">
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+ANALYZE
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
+> "Build useful things. Learn from every experiment. Keep improving."
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -267,17 +275,7 @@ AI Trading              ████░░░░░░░  35%
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
-</div>
-
----
-
-<div align="center">
-
-### 📈 `CODE • ANALYZE • TEST • IMPROVE`
-
-**Building the system one trade at a time.**
-
-⭐ Thanks for visiting my profile!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sandeshgowda513@gmail.com)
 
 </div>
 
@@ -285,6 +283,8 @@ AI Trading              ████░░░░░░░  35%
 
 <div align="center">
 
-<sub>⚠️ Trading involves substantial risk. Projects shown here are for educational and development purposes and do not constitute financial advice.</sub>
+### `CODE • BUILD • ANALYZE • IMPROVE`
+
+⭐ **Thanks for visiting my profile!** ⭐
 
 </div>

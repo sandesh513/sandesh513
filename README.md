@@ -208,20 +208,21 @@ Alva's Institute of Engineering and Technology
 
 ---
 
+
 ## `08` — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/sandesh513">
-<img src="https://img.shields.io/badge/GitHub-Follow-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=101418" alt="GitHub profile"/>
-</a>
-<a href="mailto:sandeshgowda513@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-FFD54F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101418" alt="Email"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=101418" alt="GitHub Profile"/>
 </a>
 
-<!-- Replace this URL with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/sandesh-gowda-b3a23b2a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<a href="mailto:sandeshgowda513@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-FFD54F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101418" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -231,3 +232,4 @@ Alva's Institute of Engineering and Technology
 <sub>Engineering • Software • Financial Technology</sub>
 
 </div>
+
